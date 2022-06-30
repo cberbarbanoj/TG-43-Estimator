@@ -1,10 +1,10 @@
 # TG-43-Estimator
 TG-43 Estimator Prototype Demo
 
-A. Badías
-C. Bermejo-Barbanoj
-D. González
-S. Lozares
+A. Badías  
+C. Bermejo-Barbanoj  
+D. González  
+S. Lozares  
 
 University of Zaragoza - 2022
 
